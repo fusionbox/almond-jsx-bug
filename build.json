@@ -1,0 +1,11 @@
+{
+  "baseUrl": "js",
+  "name": "almond",
+  "include": ["main"],
+  "out": "main-built.js",
+  "optimize": "none",
+  "jsx": {
+    "fileExtension": ".jsx",
+    "harmony": true
+  }
+}
